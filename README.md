@@ -26,3 +26,7 @@ python network_sniffer.py
 
 ## Internship
 CodeAlpha Cybersecurity Internship — Task 1
+
+## Output Screenshot
+
+![Output](output.png.png)
